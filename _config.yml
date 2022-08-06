@@ -3,5 +3,5 @@ plugins:
 - jekyll-remote-theme 
 title: Aaron Gálvez Salido
 description: Trayectoria y publicaciones
-show_downloads: true
-google_analytics: G-QLYMG6Q28K
+show_downloads: false
+google_analytics: 3884483816
