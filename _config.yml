@@ -3,3 +3,4 @@ plugins:
 - jekyll-remote-theme 
 title: Aaron Gálvez Salido
 description: Proyectos, publicaciones y trayectoria
+show_downloads: true
