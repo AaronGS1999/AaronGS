@@ -7,6 +7,6 @@
   <li>Julio</li>
     <ol type=”A”>
       <li>Julio</li>
-   </ol>
+    </ol>
 </ol>
 
