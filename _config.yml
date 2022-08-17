@@ -1,5 +1,5 @@
 remote_theme: pages-themes/minimal@v0.2.0
-logo: AaronGalvezSalido/assets/images/logo_web.jpg
+logo: /assets/images/logo_web.jpg
 
 plugins:
 - jekyll-remote-theme 
