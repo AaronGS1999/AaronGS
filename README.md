@@ -1,13 +1,3 @@
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-MQ8DN75W6K"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-MQ8DN75W6K');
-</script>
-
 <H1><span style="color:green">Contacto:</span></H1>
 - Email: aarongalvez@correo.ugr.es
 - [LinkedIn](https://www.linkedin.com/in/aaron-g%C3%A1lvez-salido-517474168/)
