@@ -4,4 +4,8 @@ plugins:
 - jekyll-remote-theme 
 title: Aaron G. S.
 description: Proyectos, publicaciones y trayectoria
+social:
+  email: aarongalvez@correo.ugr.es
+  twitter: Aaronmade1999
+  instagram: aaron_gs99
 show_downloads: true
