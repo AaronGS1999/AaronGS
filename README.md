@@ -1,1 +1,1 @@
-<span style="color:blue">Sobre mi</span>.
+<H1>span style="color:blue">Sobre Mi</span</H1>
