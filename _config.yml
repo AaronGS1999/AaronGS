@@ -1,5 +1,5 @@
 remote_theme: pages-themes/minimal@v0.2.0
-logo: /assets/imgages/logo.png
+logo: /assets/imgages/logo_web.png
 plugins:
 - jekyll-remote-theme 
 title: Aaron Gálvez Salido
