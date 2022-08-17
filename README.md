@@ -3,4 +3,10 @@
 
 ---
 <H1><span style="color:green">Trayectoria:</span></H1>
+<ol type=”A”>
+  <li>Julio</li>
+    <ol type=”A”>
+      <li>Julio</li>
+   </ol>
+</ol>
 
