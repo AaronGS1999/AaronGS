@@ -1,3 +1,24 @@
+<div class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" runat="server" href="~/Inicio.aspx">Calculadora de Genes</a>
+        </div>
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">                        
+                <li><a runat="server" href="~/SimuladorSimple.aspx">Simulador sin interacciones</a></li>
+                <li><a runat="server" href="~/Interacciones.aspx">Simulador con interacciones</a></li>
+                <li><a runat="server" href="~/Ligamiento.aspx">Simulador ligamiento</a></li>
+                <li><a runat="server" href="~/Acercade">Acerca de</a></li>
+                <li><a runat="server" href="~/Contacto">Contacto</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
 <H1><span style="color:green">Contacto:</span></H1>
 - Email: aarongalvez@correo.ugr.es
 - [LinkedIn](https://www.linkedin.com/in/aaron-g%C3%A1lvez-salido-517474168/)
