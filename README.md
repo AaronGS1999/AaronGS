@@ -9,7 +9,7 @@
         </div>
         <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav">                        
-                <li><a runat="server" href="~/SimuladorSimple.aspx">Trayectoria</a></li>
+                <li><a runat="server" href="https://github.com/AaronGS1999/aarongs.github.io/blob/main/Trayectoria.md">Trayectoria</a></li>
                 <li><a runat="server" href="~/Interacciones.aspx">Publicaciones</a></li>
             </ul>
         </div>
@@ -25,6 +25,3 @@
 <p class="text-justify">Biólogo. Realizando soluciones tecnológicas creativas y eficaces para la biología. Genética, bioinformática, programación, microcontroladores, inteligencia artificial e impresión 3D.</p>
 
 ---
-<H1><span style="color:green">Publicaciones:</span></H1>
-- “Una Calculadora de Genes para enseñar mendelismo, interacciones génicas y ligamiento” (2022). Aaron Gávez Salido & Rafael Navajas-Pérez. Didáctica de las Ciencias Experimentales y Sociales, nº 42, 2022, pp. 99-118. (PAPER) [[Link a la revista]](https://ojs.uv.es/index.php/dces/article/view/21008) [[WEB del artículo]](https://calculadoragenes.azurewebsites.net/).
-- "Excel Mapper: constructing chromosome idiograms with Excel"(2022). Aaron Gálvez Salido & Rafael Navajas-Pérez. American Biology Teacher. (En prensa)
