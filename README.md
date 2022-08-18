@@ -35,8 +35,7 @@
     </div>
     </div>
 </body>
-</html>
-
+    
 <H1><span style="color:green">Contacto:</span></H1>
 - Email: aarongalvez@correo.ugr.es
 - [LinkedIn](https://www.linkedin.com/in/aaron-g%C3%A1lvez-salido-517474168/)
