@@ -10,7 +10,7 @@
         <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav">                        
                 <li><a runat="server" href="https://github.com/AaronGS1999/aarongs.github.io/blob/main/Trayectoria.md">Trayectoria</a></li>
-                <li><a runat="server" href="~/Interacciones.aspx">Publicaciones</a></li>
+                <li><a runat="server" href="https://github.com/AaronGS1999/aarongs.github.io/blob/main/Publicaciones.md">Publicaciones</a></li>
             </ul>
         </div>
     </div>
