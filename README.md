@@ -5,16 +5,10 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
-            <li><a runat="server" href="https://AaronGS1999.github.io/aarongs.github.io/Trayectoria.html">Trayectoria</a></li> <li><a runat="server" href="https://AaronGS1999.github.io/aarongs.github.io/Publicaciones.html">Publicaciones</a></li>
-        </button>
-    </div>
-    <div class="navbar-collapse collapse">
-        <ul class="nav navbar-nav">                        
-            <li><a runat="server" href="https://AaronGS1999.github.io/aarongs.github.io/Trayectoria.html">Trayectoria</a></li>
+            </button>
+            <li><a runat="server" href="https://AaronGS1999.github.io/aarongs.github.io/Trayectoria.html">Trayectoria</a></li> 
             <li><a runat="server" href="https://AaronGS1999.github.io/aarongs.github.io/Publicaciones.html">Publicaciones</a></li>
-        </ul>
     </div>
-</div>
 </div>
 <H1><span style="color:green">Contacto:</span></H1>
 - Email: aarongalvez@correo.ugr.es
