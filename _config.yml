@@ -4,5 +4,5 @@ plugins:
 - jekyll-remote-theme 
 title: Aaron G. S.
 description: Contacto, sobre mí, trayectoria y publicaciones.
-show_downloads: true
+show_downloads: false
 google_analytics: G-MQ8DN75W6K
