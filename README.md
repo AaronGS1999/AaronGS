@@ -1,29 +1,4 @@
-<html>
-    <head>
-        <title>Cursos gratis</title>
-        <link rel="stylesheet" type="text/css" href="estilos.css" />
-    </head>
-    <body>
-         <ul id="lista1">
-             <li>
-                 <a href="https://informaticapc.com/">Ir a InformaticaPC</a>
-             </li>
-             <li>
-                 <span class="separador">| </span><a href="https://informaticapc.com/blog/">Ir al blog</a>
-             </li>
-             <li>
-                 <span class="separador">| </span><a href="http://www.google.es/">Ir a Google</a>
-             </li>
-             <li>
-                 <span class="separador">| </span><a href="http://www.yahoo.es/">Ir a Yahoo</a>
-             </li>
-             <li>
-                 <span class="separador">| </span><a href="http://www.bing.es/">Ir a Bing</a>
-             </li>
-         </ul>
-    </body>
-</html>
-
+[Click me](http://www.google.com){: .btn}
 <div class="navbar navbar-inverse navbar-fixed-top">
 <div class="container">
     <div class="navbar-header">
