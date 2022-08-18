@@ -3,6 +3,6 @@ logo: /assets/images/logo_web.png
 plugins:
 - jekyll-remote-theme 
 title: Aaron G. S.
-description: Contacto, sobre mí, trayectoria y publicaciones.
+description: Página WEB personal para alojar contenido como proyectos, trayectoria y publicaciones.  
 show_downloads: false
 google_analytics: G-MQ8DN75W6K
