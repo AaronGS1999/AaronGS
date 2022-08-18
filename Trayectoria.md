@@ -1,3 +1,4 @@
+[Inicio](http://ags.aarongs.org/){: .btn}|[Trayectoria](https://AaronGS1999.github.io/aarongs.github.io/Trayectoria.html){: .btn}|[Publicaciones](https://AaronGS1999.github.io/aarongs.github.io/Publicaciones.html){: .btn}
 <H1><span style="color:green">Trayectoria:</span></H1>
 - Desde 2018 hasta 2021, Universidad de Granada, Alumno interno en el Departamento de Zoología. Diversas actividades de la Línea de la Bioingeniería:
   - Programación de ordenadores en los lenguajes BASIC, Visual BASIC y Python
