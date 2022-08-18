@@ -28,8 +28,8 @@
         </div>
         <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav">                        
-                <li><a runat="server" href="https://github.com/AaronGS1999/aarongs.github.io/blob/main/Trayectoria.md">Trayectoria</a></li>
-                <li><a runat="server" href="https://github.com/AaronGS1999/aarongs.github.io/blob/main/Publicaciones.md">Publicaciones</a></li>
+                <li><a runat="server" href="https://AaronGS1999.github.io/aarongs.github.io/Trayectoria.html">Trayectoria</a></li>
+                <li><a runat="server" href="https://AaronGS1999.github.io/aarongs.github.io/Publicaciones.html">Publicaciones</a></li>
             </ul>
         </div>
     </div>
