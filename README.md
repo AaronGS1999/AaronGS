@@ -1,16 +1,4 @@
-[Click me](http://www.google.com){: .btn}
-<div class="navbar navbar-inverse navbar-fixed-top">
-<div class="container">
-    <div class="navbar-header">
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <li><a runat="server" href="https://AaronGS1999.github.io/aarongs.github.io/Trayectoria.html">Trayectoria</a></li> 
-            <li><a runat="server" href="https://AaronGS1999.github.io/aarongs.github.io/Publicaciones.html">Publicaciones</a></li>
-            </button>
-    </div>
-</div>
+[Trayectoria](https://AaronGS1999.github.io/aarongs.github.io/Trayectoria.html){: .btn}|[Publicaciones](https://AaronGS1999.github.io/aarongs.github.io/Publicaciones.html){: .btn}
 <H1><span style="color:green">Contacto:</span></H1>
 - Email: aarongalvez@correo.ugr.es
 - [LinkedIn](https://www.linkedin.com/in/aaron-g%C3%A1lvez-salido-517474168/)
