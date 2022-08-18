@@ -10,11 +10,8 @@
         </div>
         <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav">                        
-                <li><a runat="server" href="~/SimuladorSimple.aspx">Simulador sin interacciones</a></li>
-                <li><a runat="server" href="~/Interacciones.aspx">Simulador con interacciones</a></li>
-                <li><a runat="server" href="~/Ligamiento.aspx">Simulador ligamiento</a></li>
-                <li><a runat="server" href="~/Acercade">Acerca de</a></li>
-                <li><a runat="server" href="~/Contacto">Contacto</a></li>
+                <li><a runat="server" href="~/SimuladorSimple.aspx">Trayectoria</a></li>
+                <li><a runat="server" href="~/Interacciones.aspx">Publicaciones</a></li>
             </ul>
         </div>
     </div>
