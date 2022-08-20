@@ -2,3 +2,6 @@
 
 <H2><span style="color:green">Trayectoria:</span></H2>
   
+<div>
+<iframe width="740" height="840" src="https://trayectoria.aarongs.org/" scrolling="yes" frameborder="yes" ></iframe>
+</div>
