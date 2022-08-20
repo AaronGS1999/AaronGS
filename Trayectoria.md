@@ -3,5 +3,5 @@
 <H2><span style="color:green">Trayectoria:</span></H2>
   
 <div>
-<iframe width="880" height="665" src="https://trayectoria.aarongs.org/" scrolling="yes" frameborder="yes" ></iframe>
+<iframe width="880" height="680" src="https://trayectoria.aarongs.org/" scrolling="yes" frameborder="yes" ></iframe>
 </div>
