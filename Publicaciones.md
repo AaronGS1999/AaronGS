@@ -8,7 +8,7 @@
 }
 #navegador li{
    display: inline;
-   text-align: center;
+   text-align: left;
    margin: 0 0px 0 0;
 }
 #navegador li a {
