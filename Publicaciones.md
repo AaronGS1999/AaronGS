@@ -9,7 +9,7 @@
 #navegador li{
    display: inline;
    text-align: center;
-   margin: 0 10px 0 0;
+   margin: 0 0px 0 0;
 }
 #navegador li a {
    padding: 4px 14px 4px 14px;
