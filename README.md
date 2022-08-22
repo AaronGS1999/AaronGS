@@ -4,11 +4,11 @@
 <style type="text/css">
 #navegador ul{
    list-style-type: none;
-   text-align: left;
+   text-align: center;
 }
 #navegador li{
    display: inline;
-   text-align: center;
+   text-align: left;
    margin: 0 0px 0 0;
 }
 #navegador li a {
