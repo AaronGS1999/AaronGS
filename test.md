@@ -1,7 +1,6 @@
 <html>
 <head>
-<title>Barra de navegación horizontal con listas y estilos CSS</title>
-
+   
 <style type="text/css">
 #navegador ul{
    list-style-type: none;
@@ -13,7 +12,7 @@
    margin: 0 10px 0 0;
 }
 #navegador li a {
-   padding: 2px 7px 2px 7px;
+   padding: 4px 14px 4px 14px;
    color: #666;
    background-color: #eeeeee;
    border: 1px solid #ccc;
@@ -31,10 +30,9 @@
 
 <div id="navegador">
 <ul>
-<li><a href="#">Elemento 1</a></li>
-<li><a href="#">Elemento 2</a></li>
-<li><a href="#">Elemento 3</a></li>
-<li><a href="#">Elemento 4</a></li>
+<li><a href="http://ags.aarongs.org/">Inicio 1</a></li>
+<li><a href="https://AaronGS1999.github.io/aarongs.github.io/Trayectoria.html">Trayectoria 2</a></li>
+<li><a href="https://AaronGS1999.github.io/aarongs.github.io/Publicaciones.html">Publicaciones 3</a></li>
 </ul>
 </div>
 
