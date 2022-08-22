@@ -13,7 +13,7 @@
 }
 #navegador li a {
    padding: 4px 14px 4px 14px;
-   color: #500;
+   color: #267CB9;
    background-color: #eeeeee;
    border: 1px solid #ccc;
    text-decoration: none;
