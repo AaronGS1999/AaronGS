@@ -1,3 +1,10 @@
+<input type="checkbox" id="toggle-menu">
+<label class="menu-icon" for="toggle-menu">
+    <a id="menu-icon">
+        <i class="fa fa-bars"></i>
+    </a>
+</label>
+
 <html>
 <head>
    
@@ -34,6 +41,7 @@
 <li><a href="https://AaronGS1999.github.io/aarongs.github.io/Trayectoria.html">Trayectoria</a></li>
 <li><a href="https://AaronGS1999.github.io/aarongs.github.io/Publicaciones.html">Publicaciones</a></li>
 </ul>
+   
 </div>
 
 </body>
