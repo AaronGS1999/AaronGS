@@ -4,7 +4,7 @@
 <style type="text/css">
 #navegador ul{
    list-style-type: none;
-   text-align: left;
+   text-align: center;
 }
 #navegador li{
    display: inline;
