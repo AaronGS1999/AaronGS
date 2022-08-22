@@ -35,6 +35,6 @@
 <li><a href="https://AaronGS1999.github.io/aarongs.github.io/Publicaciones.html">Publicaciones</a></li>
 </ul>
 </div>
+
 </body>
 </html>
-
