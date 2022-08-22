@@ -30,9 +30,9 @@
 
 <div id="navegador">
 <ul>
-<li><a href="http://ags.aarongs.org/">Inicio 1</a></li>
-<li><a href="https://AaronGS1999.github.io/aarongs.github.io/Trayectoria.html">Trayectoria 2</a></li>
-<li><a href="https://AaronGS1999.github.io/aarongs.github.io/Publicaciones.html">Publicaciones 3</a></li>
+<li><a href="http://ags.aarongs.org/">Inicio</a></li>
+<li><a href="https://AaronGS1999.github.io/aarongs.github.io/Trayectoria.html">Trayectoria</a></li>
+<li><a href="https://AaronGS1999.github.io/aarongs.github.io/Publicaciones.html">Publicaciones</a></li>
 </ul>
 </div>
 
