@@ -1,10 +1,3 @@
-<input type="checkbox" id="toggle-menu">
-<label class="menu-icon" for="toggle-menu">
-    <a id="menu-icon">
-        <i class="fa fa-bars"></i>
-    </a>
-</label>
-
 <html>
 <head>
    
@@ -15,8 +8,8 @@
 }
 #navegador li{
    display: inline;
-   text-align: center;
-   margin: 0 10px 0 0;
+   text-align: left;
+   margin: 0 0px 0 0;
 }
 #navegador li a {
    padding: 4px 14px 4px 14px;
@@ -41,7 +34,6 @@
 <li><a href="https://AaronGS1999.github.io/aarongs.github.io/Trayectoria.html">Trayectoria</a></li>
 <li><a href="https://AaronGS1999.github.io/aarongs.github.io/Publicaciones.html">Publicaciones</a></li>
 </ul>
-   
 </div>
 
 </body>
