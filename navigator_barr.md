@@ -30,7 +30,7 @@
 
 <div id="navegador">
 <ul>
-<li><a href="http://ags.aarongs.org/">Inicio</a></li>
+<li><a href="https://AaronGS1999.github.io/aarongs.github.io/Inicio.html">Inicio</a></li>
 <li><a href="https://AaronGS1999.github.io/aarongs.github.io/Trayectoria.html">Trayectoria</a></li>
 <li><a href="https://AaronGS1999.github.io/aarongs.github.io/Publicaciones.html">Publicaciones</a></li>
 <li><a href="https://AaronGS1999.github.io/aarongs.github.io/PDFs/TFGB_ZOO39_2021_GálvezSalido.pdf">TFG</a></li>
