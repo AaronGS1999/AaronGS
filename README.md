@@ -43,8 +43,7 @@
 
 <H2><span style="color:green">Contacto:</span></H2>
 - Email: aarongalvez@correo.ugr.es
-- [LinkedIn]
-<a href="https://www.linkedin.com/in/aaron-g%C3%A1lvez-salido-517474168/" target="_blank">New Tab</a>
+- <a href="https://www.linkedin.com/in/aaron-g%C3%A1lvez-salido-517474168/" target="_blank">[LinkedIn]</a>
 
 
 
