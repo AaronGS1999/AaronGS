@@ -34,6 +34,8 @@
 <li><a href="https://AaronGS1999.github.io/aarongs.github.io/Trayectoria.html">Trayectoria</a></li>
 <li><a href="https://AaronGS1999.github.io/aarongs.github.io/Publicaciones.html">Publicaciones</a></li>
 <li><a href="https://AaronGS1999.github.io/aarongs.github.io/TFG.html">TFG</a></li>
+<li><a href="https://AaronGS1999.github.io/aarongs.github.io/programacion_aplicada.html">Programación aplicada a la Biología</a></li>
+   
 </ul>
 </div>
 
@@ -41,8 +43,8 @@
 </html>
 
   
-<H2><span style="color:green">Publicaciones:</span></H2>
-- “Una Calculadora de Genes para enseñar mendelismo, interacciones génicas y ligamiento” (2022). Aaron Gávez Salido & Rafael Navajas-Pérez. Didáctica de las Ciencias Experimentales y Sociales, nº 42, 2022, pp. 99-118. (PAPER) <a href="https://ojs.uv.es/index.php/dces/article/view/21008" target="_blank">[Link a la revista]</a> <a href="https://calculadoragenes.azurewebsites.net/" target="_blank">[WEB del artículo]</a>.
-- “Using Excel Mapper to Design Chromosome Idiograms”. Gálvez Salido A. & Navajas-Pérez R. The American Biology Teacher, 84 (7): 396–398 <a href="https://doi.org/10.1525/abt.2022.84.7.396" target="_blank">[Link a la revista]</a>.
+<H2><span style="color:green">Programación aplicada a la Biología</span></H2>
+- <a href="https://colab.research.google.com/drive/1KfMTSLx91fYZYNredrvR-cCd6plNFx9R?usp=sharing" target="_blank">Hardy-Weinberg</a> 
+- <a href="https://colab.research.google.com/drive/1ZaJkazophlkr3MMaRgzUKgRD3E008W8a?usp=sharing" target="_blank">Hardy-Weinberg para un gen ligado al sexo</a> 
 
 ---
