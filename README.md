@@ -34,7 +34,7 @@
 <li><a href="https://AaronGS1999.github.io/aarongs.github.io/Trayectoria.html">Trayectoria</a></li>
 <li><a href="https://AaronGS1999.github.io/aarongs.github.io/Publicaciones.html">Publicaciones</a></li>
 <li><a href="https://AaronGS1999.github.io/aarongs.github.io/TFG.html">TFG</a></li>
-<li><a href="https://AaronGS1999.github.io/aarongs.github.io/programacion_aplicada.html">P.A.B.</a></li>
+<li><a href="https://AaronGS1999.github.io/aarongs.github.io/programacion_aplicada.html">PAB</a></li>
    
 </ul>
 </div>
