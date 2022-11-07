@@ -44,6 +44,7 @@
 
   
 <H2><span style="color:green">Programación aplicada a la Biología</span></H2>
+- <a href="https://calculadoragenes.azurewebsites.net/" target="_blank">Calculadora de genes</a> 
 - <a href="https://colab.research.google.com/drive/1KfMTSLx91fYZYNredrvR-cCd6plNFx9R?usp=sharing" target="_blank">Hardy-Weinberg</a> 
 - <a href="https://colab.research.google.com/drive/1jtaay4YPtuhG8_BdLh0YGNhAcJcrI-XH?usp=sharing" target="_blank">Hardy-Weinberg II</a> 
 - <a href="https://colab.research.google.com/drive/1ZaJkazophlkr3MMaRgzUKgRD3E008W8a?usp=sharing" target="_blank">Hardy-Weinberg para un gen ligado al sexo</a> 
