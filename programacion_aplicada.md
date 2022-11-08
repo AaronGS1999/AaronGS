@@ -50,6 +50,6 @@
 - <a href="https://colab.research.google.com/drive/1ZaJkazophlkr3MMaRgzUKgRD3E008W8a?usp=sharing" target="_blank">Hardy-Weinberg para un gen ligado al sexo</a> 
 - <a href="https://colab.research.google.com/drive/1R7ZgY9yWLXj9MFq1xNijKhM1wDEBtpP9?usp=sharing" target="_blank">Hardy-Weinberg para un gen ligado al sexo II</a> 
 - <a href="https://colab.research.google.com/drive/1z8u8xUaIHZcjRt-hxonJfOSnl0j_aWEF?usp=sharing" target="_blank">Hardy-Weinberg como hipótesis nula</a> 
-- <a href="https://colab.research.google.com/drive/1qtJTxytaR8uIsylozqsHVR507iw2WL2p?usp=sharing" target="_blank">Análisis de secuencias: Número total de nucleótidos y contenido en G-C</a> 
+- <a href="https://colab.research.google.com/drive/1qtJTxytaR8uIsylozqsHVR507iw2WL2p?usp=sharing" target="_blank">Análisis de secuencias: Nº de nucleótidos + contenido en G-C</a> 
 
 ---
