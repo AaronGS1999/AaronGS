@@ -53,7 +53,8 @@
 - <a href="https://colab.research.google.com/drive/1txBH7iiUEUZ1bjepf5kdupfb7MXwGrXf?usp=sharing" target="_blank">Modelo general de Selección</a>
 - <a href="https://colab.research.google.com/drive/1zM8Qo_FFovg_zqavCzXlwmnGy4njV2M8?usp=sharing" target="_blank">Modelo de Selección subdominancia</a>
 - <a href="https://colab.research.google.com/drive/1x-Qhxnt87ahtn7tNpg1wq3vVo3ycaqmP?usp=sharing" target="_blank">Modelo de Selección sobredominancia</a>   
-- <a href="https://colab.research.google.com/drive/1US93snqwcL6pb1X6K5wJCBoXo1ejunL7?usp=sharing" target="_blank">Modelo de Selección y Hardy-Weinberg</a>  
+- <a href="https://colab.research.google.com/drive/1US93snqwcL6pb1X6K5wJCBoXo1ejunL7?usp=sharing" target="_blank">Modelo de Selección y Hardy-Weinberg</a>
+- <a href="https://colab.research.google.com/drive/1OdzSpOHi69rBwbsE7TIF1GqMqzbkPTX_?usp=sharing" target="_blank">Modelo de Fisher-Wright</a>  
 - <a href="https://colab.research.google.com/drive/1n4VxCqV3C4A4QtJaYQ3T7jcwfN8DQUC0?usp=sharing" target="_blank">Análisis composicional de secuencias</a> 
 
 ---
