@@ -1,3 +1,4 @@
+<html>
 #navegador ul {
    list-style-type: none;
    display: flex;
@@ -27,8 +28,7 @@
 #navegador i {
    margin-right: 8px;
 }
-
-#Contenido
+<html>
 <H2><span style="color:green">Contacto:</span></H2>
 - Email: aarongalvez@correo.ugr.es
 - <a href="https://www.linkedin.com/in/aaron-g%C3%A1lvez-salido-517474168/" target="_blank">[LinkedIn]</a>
