@@ -1,48 +1,34 @@
-<html>
-<head>
-   
-<style type="text/css">
-#navegador ul{
+#navegador ul {
    list-style-type: none;
-   text-align: center;
-}
-#navegador li{
-   display: inline;
-   text-align: left;
-   margin: 0 0px 0 0;
-}
-#navegador li a {
-   padding: 4px 14px 4px 14px;
-   color: #267CB9;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
    background-color: #eeeeee;
-   border: 1px solid #ccc;
-   text-decoration: none;
+   box-shadow: 0px 2px 3px rgba(0,0,0,0.1);
 }
-#navegador li a:hover{
+
+#navegador li {
+   display: inline;
+}
+
+#navegador li a {
+   color: #267CB9;
+   padding: 10px 20px;
+   text-decoration: none;
+   font-size: 14px;
+}
+
+#navegador li a:hover,
+#navegador li a.active {
    background-color: #333333;
    color: #ffffff;
 }
-   </style>
-</head>
 
-<body>
+#navegador i {
+   margin-right: 8px;
+}
 
-
-<div id="navegador">
-<ul>
-<li><a href="http://ags.aarongs.org/">Inicio</a></li>
-<li><a href="https://AaronGS1999.github.io/aarongs.github.io/Trayectoria.html">Trayectoria</a></li>
-<li><a href="https://AaronGS1999.github.io/aarongs.github.io/Publicaciones.html">Publicaciones</a></li>
-<li><a href="https://AaronGS1999.github.io/aarongs.github.io/TFG.html">TFG</a></li>
-<li><a href="https://AaronGS1999.github.io/aarongs.github.io/programacion_aplicada.html">PAB</a></li>
-   
-</ul>
-</div>
-
-</body>
-</html>
-
-
+#Contenido
 <H2><span style="color:green">Contacto:</span></H2>
 - Email: aarongalvez@correo.ugr.es
 - <a href="https://www.linkedin.com/in/aaron-g%C3%A1lvez-salido-517474168/" target="_blank">[LinkedIn]</a>
