@@ -1,6 +1,5 @@
 <html>
 <head>
- 
 <body>
    <iframe src="nav-bar.html" style="width: 100%; height: 60px; border: none;"></iframe>
 
