@@ -1,31 +1,8 @@
 <html>
 <head>
-   
-<style type="text/css">
-#navegador ul{
-   list-style-type: none;
-   text-align: center;
-}
-#navegador li{
-   display: inline;
-   text-align: left;
-   margin: 0 0px 0 0;
-}
-#navegador li a {
-   padding: 4px 14px 4px 14px;
-   color: #267CB9;
-   background-color: #eeeeee;
-   border: 1px solid #ccc;
-   text-decoration: none;
-}
-#navegador li a:hover{
-   background-color: #333333;
-   color: #ffffff;
-}
-   </style>
-</head>
-
+ 
 <body>
+   <iframe src="nav-bar.html" style="width: 100%; height: 60px; border: none;"></iframe>
 
 
 <div id="navegador">
